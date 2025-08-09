@@ -1,0 +1,15 @@
+C:\Users\SamyS\Rouge like\C44-G02-OOP\C44-G02-OOP#5\bin\Debug\net8.0\C44-G02-OOP#5.exe
+C:\Users\SamyS\Rouge like\C44-G02-OOP\C44-G02-OOP#5\bin\Debug\net8.0\C44-G02-OOP#5.deps.json
+C:\Users\SamyS\Rouge like\C44-G02-OOP\C44-G02-OOP#5\bin\Debug\net8.0\C44-G02-OOP#5.runtimeconfig.json
+C:\Users\SamyS\Rouge like\C44-G02-OOP\C44-G02-OOP#5\bin\Debug\net8.0\C44-G02-OOP#5.dll
+C:\Users\SamyS\Rouge like\C44-G02-OOP\C44-G02-OOP#5\bin\Debug\net8.0\C44-G02-OOP#5.pdb
+C:\Users\SamyS\Rouge like\C44-G02-OOP\C44-G02-OOP#5\obj\Debug\net8.0\C44-G02-OOP#5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SamyS\Rouge like\C44-G02-OOP\C44-G02-OOP#5\obj\Debug\net8.0\C44-G02-OOP#5.AssemblyInfoInputs.cache
+C:\Users\SamyS\Rouge like\C44-G02-OOP\C44-G02-OOP#5\obj\Debug\net8.0\C44-G02-OOP#5.AssemblyInfo.cs
+C:\Users\SamyS\Rouge like\C44-G02-OOP\C44-G02-OOP#5\obj\Debug\net8.0\C44-G02-OOP#5.csproj.CoreCompileInputs.cache
+C:\Users\SamyS\Rouge like\C44-G02-OOP\C44-G02-OOP#5\obj\Debug\net8.0\C44-G02-OOP#5.sourcelink.json
+C:\Users\SamyS\Rouge like\C44-G02-OOP\C44-G02-OOP#5\obj\Debug\net8.0\C44-G02-OOP#5.dll
+C:\Users\SamyS\Rouge like\C44-G02-OOP\C44-G02-OOP#5\obj\Debug\net8.0\refint\C44-G02-OOP#5.dll
+C:\Users\SamyS\Rouge like\C44-G02-OOP\C44-G02-OOP#5\obj\Debug\net8.0\C44-G02-OOP#5.pdb
+C:\Users\SamyS\Rouge like\C44-G02-OOP\C44-G02-OOP#5\obj\Debug\net8.0\C44-G02-OOP#5.genruntimeconfig.cache
+C:\Users\SamyS\Rouge like\C44-G02-OOP\C44-G02-OOP#5\obj\Debug\net8.0\ref\C44-G02-OOP#5.dll
