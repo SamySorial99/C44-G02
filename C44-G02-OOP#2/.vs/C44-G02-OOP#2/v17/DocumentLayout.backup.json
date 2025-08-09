@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C35F258-EBFE-4A78-9C59-AA00EF38C0C7}|ConsoleApp1.csproj|c:\\users\\samys\\rouge like\\c44-g02-oop\\consoleapp1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C35F258-EBFE-4A78-9C59-AA00EF38C0C7}|ConsoleApp1.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C35F258-EBFE-4A78-9C59-AA00EF38C0C7}|ConsoleApp1.csproj|c:\\users\\samys\\rouge like\\c44-g02-oop\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C35F258-EBFE-4A78-9C59-AA00EF38C0C7}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C35F258-EBFE-4A78-9C59-AA00EF38C0C7}|ConsoleApp1.csproj|c:\\users\\samys\\rouge like\\c44-g02-oop\\consoleapp1\\hiringdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C35F258-EBFE-4A78-9C59-AA00EF38C0C7}|ConsoleApp1.csproj|solutionrelative:hiringdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C35F258-EBFE-4A78-9C59-AA00EF38C0C7}|ConsoleApp1.csproj|c:\\users\\samys\\rouge like\\c44-g02-oop\\consoleapp1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C35F258-EBFE-4A78-9C59-AA00EF38C0C7}|ConsoleApp1.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\ConsoleApp1\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\ConsoleApp1\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwB0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:04:25.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HiringDate.cs",
+              "DocumentMoniker": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\ConsoleApp1\\HiringDate.cs",
+              "RelativeDocumentMoniker": "HiringDate.cs",
+              "ToolTip": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\ConsoleApp1\\HiringDate.cs",
+              "RelativeToolTip": "HiringDate.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:35:55.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\ConsoleApp1\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\ConsoleApp1\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAADwv3EAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T19:26:08.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBcAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T19:03:11.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

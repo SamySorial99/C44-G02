@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\C44-G02-OOP#4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F901A41-CFDC-419C-89A1-6247020F2B5C}|C44-G02-OOP#4.csproj|c:\\users\\samys\\rouge like\\c44-g02-oop\\c44-g02-oop#4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F901A41-CFDC-419C-89A1-6247020F2B5C}|C44-G02-OOP#4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F901A41-CFDC-419C-89A1-6247020F2B5C}|C44-G02-OOP#4.csproj|c:\\users\\samys\\rouge like\\c44-g02-oop\\c44-g02-oop#4\\complexnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F901A41-CFDC-419C-89A1-6247020F2B5C}|C44-G02-OOP#4.csproj|solutionrelative:complexnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F901A41-CFDC-419C-89A1-6247020F2B5C}|C44-G02-OOP#4.csproj|c:\\users\\samys\\rouge like\\c44-g02-oop\\c44-g02-oop#4\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F901A41-CFDC-419C-89A1-6247020F2B5C}|C44-G02-OOP#4.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F901A41-CFDC-419C-89A1-6247020F2B5C}|C44-G02-OOP#4.csproj|c:\\users\\samys\\rouge like\\c44-g02-oop\\c44-g02-oop#4\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F901A41-CFDC-419C-89A1-6247020F2B5C}|C44-G02-OOP#4.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComplexNumber.cs",
+              "DocumentMoniker": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\C44-G02-OOP#4\\ComplexNumber.cs",
+              "RelativeDocumentMoniker": "ComplexNumber.cs",
+              "ToolTip": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\C44-G02-OOP#4\\ComplexNumber.cs",
+              "RelativeToolTip": "ComplexNumber.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T12:40:54.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\C44-G02-OOP#4\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Rectangle.cs",
+              "ToolTip": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\C44-G02-OOP#4\\Rectangle.cs",
+              "RelativeToolTip": "Rectangle.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T12:32:30.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\C44-G02-OOP#4\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator.cs",
+              "ToolTip": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\C44-G02-OOP#4\\Calculator.cs",
+              "RelativeToolTip": "Calculator.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T12:29:40.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\C44-G02-OOP#4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\C44-G02-OOP#4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwDsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T12:28:32.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
