@@ -1,0 +1,72 @@
+{
+  "version": 2,
+  "dgSpecHash": "wNSmzJouhJs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\Test-Answer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SamyS\\.nuget\\packages\\anotar.serilog.fody\\4.6.2\\anotar.serilog.fody.4.6.2.nupkg.sha512",
+    "C:\\Users\\SamyS\\.nuget\\packages\\csvtools\\1.0.12\\csvtools.1.0.12.nupkg.sha512",
+    "C:\\Users\\SamyS\\.nuget\\packages\\exchangeapi\\1.543.1922\\exchangeapi.1.543.1922.nupkg.sha512",
+    "C:\\Users\\SamyS\\.nuget\\packages\\fody\\3.1.0\\fody.3.1.0.nupkg.sha512",
+    "C:\\Users\\SamyS\\.nuget\\packages\\microsoft.csharp\\4.4.0\\microsoft.csharp.4.4.0.nupkg.sha512",
+    "C:\\Users\\SamyS\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\SamyS\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\SamyS\\.nuget\\packages\\monads\\1.1.5\\monads.1.1.5.nupkg.sha512",
+    "C:\\Users\\SamyS\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\SamyS\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\SamyS\\.nuget\\packages\\restsharp\\106.6.10\\restsharp.106.6.10.nupkg.sha512",
+    "C:\\Users\\SamyS\\.nuget\\packages\\serilog\\2.7.1\\serilog.2.7.1.nupkg.sha512",
+    "C:\\Users\\SamyS\\.nuget\\packages\\servicestack.text\\5.2.0\\servicestack.text.5.2.0.nupkg.sha512",
+    "C:\\Users\\SamyS\\.nuget\\packages\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",
+    "C:\\Users\\SamyS\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
+    "C:\\Users\\SamyS\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
+    "C:\\Users\\SamyS\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\SamyS\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\SamyS\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\SamyS\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\SamyS\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "C:\\Users\\SamyS\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\SamyS\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\SamyS\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\SamyS\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
+    "C:\\Users\\SamyS\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'CsvTools 1.0.12' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\Test-Answer.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\Test-Answer.csproj",
+      "libraryId": "CsvTools",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'ExchangeAPI 1.543.1922' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\Test-Answer.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\Test-Answer.csproj",
+      "libraryId": "ExchangeAPI",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'Monads 1.1.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\Test-Answer.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\Test-Answer.csproj",
+      "libraryId": "Monads",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+C:\Users\SamyS\OneDrive\Desktop\Test-Answer\obj\Release\net8.0\Test-Answer.csproj.AssemblyReference.cache
+C:\Users\SamyS\OneDrive\Desktop\Test-Answer\obj\Release\net8.0\Test-Answer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SamyS\OneDrive\Desktop\Test-Answer\obj\Release\net8.0\Test-Answer.AssemblyInfoInputs.cache
+C:\Users\SamyS\OneDrive\Desktop\Test-Answer\obj\Release\net8.0\Test-Answer.AssemblyInfo.cs
+C:\Users\SamyS\OneDrive\Desktop\Test-Answer\obj\Release\net8.0\Test-Answer.csproj.CoreCompileInputs.cache
+C:\Users\SamyS\OneDrive\Desktop\Test-Answer\obj\Release\net8.0\Test-Answer.dll
+C:\Users\SamyS\OneDrive\Desktop\Test-Answer\obj\Release\net8.0\refint\Test-Answer.dll
+C:\Users\SamyS\OneDrive\Desktop\Test-Answer\obj\Release\net8.0\Test-Answer.pdb

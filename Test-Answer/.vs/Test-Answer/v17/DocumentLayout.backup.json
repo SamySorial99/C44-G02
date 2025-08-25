@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C45562-45E7-4925-9900-1E370E9F33A5}|Test-Answer.csproj|c:\\users\\samys\\onedrive\\desktop\\test-answer\\fodyweavers.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F1C45562-45E7-4925-9900-1E370E9F33A5}|Test-Answer.csproj|solutionrelative:fodyweavers.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C45562-45E7-4925-9900-1E370E9F33A5}|Test-Answer.csproj|c:\\users\\samys\\onedrive\\desktop\\test-answer\\tfquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C45562-45E7-4925-9900-1E370E9F33A5}|Test-Answer.csproj|solutionrelative:tfquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C45562-45E7-4925-9900-1E370E9F33A5}|Test-Answer.csproj|c:\\users\\samys\\onedrive\\desktop\\test-answer\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C45562-45E7-4925-9900-1E370E9F33A5}|Test-Answer.csproj|solutionrelative:question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C45562-45E7-4925-9900-1E370E9F33A5}|Test-Answer.csproj|c:\\users\\samys\\onedrive\\desktop\\test-answer\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C45562-45E7-4925-9900-1E370E9F33A5}|Test-Answer.csproj|solutionrelative:subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C45562-45E7-4925-9900-1E370E9F33A5}|Test-Answer.csproj|c:\\users\\samys\\onedrive\\desktop\\test-answer\\practicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C45562-45E7-4925-9900-1E370E9F33A5}|Test-Answer.csproj|solutionrelative:practicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C45562-45E7-4925-9900-1E370E9F33A5}|Test-Answer.csproj|c:\\users\\samys\\onedrive\\desktop\\test-answer\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C45562-45E7-4925-9900-1E370E9F33A5}|Test-Answer.csproj|solutionrelative:finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C45562-45E7-4925-9900-1E370E9F33A5}|Test-Answer.csproj|c:\\users\\samys\\onedrive\\desktop\\test-answer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C45562-45E7-4925-9900-1E370E9F33A5}|Test-Answer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C45562-45E7-4925-9900-1E370E9F33A5}|Test-Answer.csproj|c:\\users\\samys\\onedrive\\desktop\\test-answer\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C45562-45E7-4925-9900-1E370E9F33A5}|Test-Answer.csproj|solutionrelative:answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C45562-45E7-4925-9900-1E370E9F33A5}|Test-Answer.csproj|c:\\users\\samys\\onedrive\\desktop\\test-answer\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C45562-45E7-4925-9900-1E370E9F33A5}|Test-Answer.csproj|solutionrelative:exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C45562-45E7-4925-9900-1E370E9F33A5}|Test-Answer.csproj|c:\\users\\samys\\onedrive\\desktop\\test-answer\\mcqquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C45562-45E7-4925-9900-1E370E9F33A5}|Test-Answer.csproj|solutionrelative:mcqquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FodyWeavers.xml",
+              "DocumentMoniker": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\FodyWeavers.xml",
+              "RelativeDocumentMoniker": "FodyWeavers.xml",
+              "ToolTip": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\FodyWeavers.xml*",
+              "RelativeToolTip": "FodyWeavers.xml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-08-25T18:52:55.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\Subject.cs",
+              "RelativeDocumentMoniker": "Subject.cs",
+              "ToolTip": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\Subject.cs",
+              "RelativeToolTip": "Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:08:06.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\Question.cs",
+              "RelativeDocumentMoniker": "Question.cs",
+              "ToolTip": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\Question.cs",
+              "RelativeToolTip": "Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:08:06.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PracticalExam.cs",
+              "DocumentMoniker": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\PracticalExam.cs",
+              "RelativeDocumentMoniker": "PracticalExam.cs",
+              "ToolTip": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\PracticalExam.cs",
+              "RelativeToolTip": "PracticalExam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:08:05.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MCQQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\MCQQuestion.cs",
+              "RelativeDocumentMoniker": "MCQQuestion.cs",
+              "ToolTip": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\MCQQuestion.cs",
+              "RelativeToolTip": "MCQQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:08:04.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FinalExam.cs",
+              "DocumentMoniker": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\FinalExam.cs",
+              "RelativeDocumentMoniker": "FinalExam.cs",
+              "ToolTip": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\FinalExam.cs",
+              "RelativeToolTip": "FinalExam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:08:03.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\Exam.cs",
+              "RelativeDocumentMoniker": "Exam.cs",
+              "ToolTip": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\Exam.cs",
+              "RelativeToolTip": "Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:08:03.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\Answer.cs",
+              "RelativeDocumentMoniker": "Answer.cs",
+              "ToolTip": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\Answer.cs",
+              "RelativeToolTip": "Answer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:07:08.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:02:34.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TFQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\TFQuestion.cs",
+              "RelativeDocumentMoniker": "TFQuestion.cs",
+              "ToolTip": "C:\\Users\\SamyS\\OneDrive\\Desktop\\Test-Answer\\TFQuestion.cs",
+              "RelativeToolTip": "TFQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:08:07.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
