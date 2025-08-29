@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\C44-G02-AdvC#01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{133549A0-C3A0-4558-88EE-9C8BD6BBC2C8}|C44-G02-AdvC#01.csproj|c:\\users\\samys\\rouge like\\c44-g02-oop\\c44-g02-advc#01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133549A0-C3A0-4558-88EE-9C8BD6BBC2C8}|C44-G02-AdvC#01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133549A0-C3A0-4558-88EE-9C8BD6BBC2C8}|C44-G02-AdvC#01.csproj|c:\\users\\samys\\rouge like\\c44-g02-oop\\c44-g02-advc#01\\fixedsizelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133549A0-C3A0-4558-88EE-9C8BD6BBC2C8}|C44-G02-AdvC#01.csproj|solutionrelative:fixedsizelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133549A0-C3A0-4558-88EE-9C8BD6BBC2C8}|C44-G02-AdvC#01.csproj|c:\\users\\samys\\rouge like\\c44-g02-oop\\c44-g02-advc#01\\range.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133549A0-C3A0-4558-88EE-9C8BD6BBC2C8}|C44-G02-AdvC#01.csproj|solutionrelative:range.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FixedSizeList.cs",
+              "DocumentMoniker": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\C44-G02-AdvC#01\\FixedSizeList.cs",
+              "RelativeDocumentMoniker": "FixedSizeList.cs",
+              "ToolTip": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\C44-G02-AdvC#01\\FixedSizeList.cs",
+              "RelativeToolTip": "FixedSizeList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T18:03:26.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Range.cs",
+              "DocumentMoniker": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\C44-G02-AdvC#01\\Range.cs",
+              "RelativeDocumentMoniker": "Range.cs",
+              "ToolTip": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\C44-G02-AdvC#01\\Range.cs",
+              "RelativeToolTip": "Range.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T17:20:49.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\C44-G02-AdvC#01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\C44-G02-AdvC#01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCIAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T15:47:45.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
