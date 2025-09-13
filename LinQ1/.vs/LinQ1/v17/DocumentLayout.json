@@ -34,8 +34,7 @@
               "RelativeToolTip": "Customers.xml",
               "ViewState": "AgIAAFsNAAAAAAAAAAAawAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-09-13T17:27:51.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-13T17:27:51.901Z"
             },
             {
               "$type": "Document",
@@ -47,8 +46,7 @@
               "RelativeToolTip": "ListGenerator.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAcwAMBAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T17:27:05.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-13T17:27:05.616Z"
             },
             {
               "$type": "Document",
@@ -56,9 +54,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\LinQ1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\LinQ1\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAKgAAAAAAAAAAAAmwNMAAAAkAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\LinQ1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAuwNYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-13T17:23:51.501Z",
               "EditorCaption": ""
