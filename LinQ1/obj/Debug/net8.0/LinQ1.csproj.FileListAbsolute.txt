@@ -1,0 +1,15 @@
+C:\Users\SamyS\Rouge like\C44-G02-OOP\LinQ1\bin\Debug\net8.0\LinQ1.exe
+C:\Users\SamyS\Rouge like\C44-G02-OOP\LinQ1\bin\Debug\net8.0\LinQ1.deps.json
+C:\Users\SamyS\Rouge like\C44-G02-OOP\LinQ1\bin\Debug\net8.0\LinQ1.runtimeconfig.json
+C:\Users\SamyS\Rouge like\C44-G02-OOP\LinQ1\bin\Debug\net8.0\LinQ1.dll
+C:\Users\SamyS\Rouge like\C44-G02-OOP\LinQ1\bin\Debug\net8.0\LinQ1.pdb
+C:\Users\SamyS\Rouge like\C44-G02-OOP\LinQ1\obj\Debug\net8.0\LinQ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SamyS\Rouge like\C44-G02-OOP\LinQ1\obj\Debug\net8.0\LinQ1.AssemblyInfoInputs.cache
+C:\Users\SamyS\Rouge like\C44-G02-OOP\LinQ1\obj\Debug\net8.0\LinQ1.AssemblyInfo.cs
+C:\Users\SamyS\Rouge like\C44-G02-OOP\LinQ1\obj\Debug\net8.0\LinQ1.csproj.CoreCompileInputs.cache
+C:\Users\SamyS\Rouge like\C44-G02-OOP\LinQ1\obj\Debug\net8.0\LinQ1.sourcelink.json
+C:\Users\SamyS\Rouge like\C44-G02-OOP\LinQ1\obj\Debug\net8.0\LinQ1.dll
+C:\Users\SamyS\Rouge like\C44-G02-OOP\LinQ1\obj\Debug\net8.0\refint\LinQ1.dll
+C:\Users\SamyS\Rouge like\C44-G02-OOP\LinQ1\obj\Debug\net8.0\LinQ1.pdb
+C:\Users\SamyS\Rouge like\C44-G02-OOP\LinQ1\obj\Debug\net8.0\LinQ1.genruntimeconfig.cache
+C:\Users\SamyS\Rouge like\C44-G02-OOP\LinQ1\obj\Debug\net8.0\ref\LinQ1.dll

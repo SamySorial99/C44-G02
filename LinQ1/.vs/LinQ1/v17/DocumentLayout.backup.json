@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\LinQ1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51859C68-FCDE-4AF2-A3A7-5A143A23E1F0}|LinQ1.csproj|c:\\users\\samys\\rouge like\\c44-g02-oop\\linq1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51859C68-FCDE-4AF2-A3A7-5A143A23E1F0}|LinQ1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51859C68-FCDE-4AF2-A3A7-5A143A23E1F0}|LinQ1.csproj|c:\\users\\samys\\rouge like\\c44-g02-oop\\linq1\\listgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51859C68-FCDE-4AF2-A3A7-5A143A23E1F0}|LinQ1.csproj|solutionrelative:listgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51859C68-FCDE-4AF2-A3A7-5A143A23E1F0}|LinQ1.csproj|c:\\users\\samys\\rouge like\\c44-g02-oop\\linq1\\customers.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{51859C68-FCDE-4AF2-A3A7-5A143A23E1F0}|LinQ1.csproj|solutionrelative:customers.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customers.xml",
+              "DocumentMoniker": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\LinQ1\\Customers.xml",
+              "RelativeDocumentMoniker": "Customers.xml",
+              "ToolTip": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\LinQ1\\Customers.xml",
+              "RelativeToolTip": "Customers.xml",
+              "ViewState": "AgIAAFsNAAAAAAAAAAAawAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-09-13T17:27:51.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\LinQ1\\ListGenerator.cs",
+              "RelativeDocumentMoniker": "ListGenerator.cs",
+              "ToolTip": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\LinQ1\\ListGenerator.cs",
+              "RelativeToolTip": "ListGenerator.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAcwAMBAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T17:27:05.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\LinQ1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SamyS\\Rouge like\\C44-G02-OOP\\LinQ1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAmwNQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T17:23:51.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
